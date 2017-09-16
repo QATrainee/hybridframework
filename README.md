@@ -1,2 +1,0 @@
-# hybrid
-@author:selva
