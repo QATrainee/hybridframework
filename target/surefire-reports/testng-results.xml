@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="489837" started-at="2017-09-12T08:07:17Z" finished-at="2017-09-12T08:15:27Z">
+  <suite name="Suite" duration-ms="516023" started-at="2017-09-16T11:35:48Z" finished-at="2017-09-16T11:44:24Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="489837" started-at="2017-09-12T08:07:17Z" finished-at="2017-09-12T08:15:27Z">
+    <test name="Test" duration-ms="516023" started-at="2017-09-16T11:35:48Z" finished-at="2017-09-16T11:44:24Z">
       <class name="Testcase.TestCases">
-        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:Testcase.TestCases@b9afc07]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2017-09-12T13:37:17Z" finished-at="2017-09-12T13:37:17Z">
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:Testcase.TestCases@3cb1ffe6]" name="beforeMethod" is-config="true" duration-ms="13" started-at="2017-09-16T17:05:48Z" finished-at="2017-09-16T17:05:48Z">
           <params>
             <param index="0">
               <value>
@@ -18,30 +18,26 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="a()[pri:0, instance:Testcase.TestCases@b9afc07]" name="a" is-config="true" duration-ms="2499" started-at="2017-09-12T13:37:17Z" finished-at="2017-09-12T13:37:20Z">
+        <test-method status="PASS" signature="a()[pri:0, instance:Testcase.TestCases@3cb1ffe6]" name="a" is-config="true" duration-ms="4352" started-at="2017-09-16T17:05:48Z" finished-at="2017-09-16T17:05:53Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- a -->
-        <test-method status="PASS" signature="Replacedoc()[pri:0, instance:Testcase.TestCases@b9afc07]" name="Replacedoc" duration-ms="100418" started-at="2017-09-12T13:37:20Z" finished-at="2017-09-12T13:39:00Z">
+        <test-method status="PASS" signature="Replacedoc()[pri:0, instance:Testcase.TestCases@3cb1ffe6]" name="Replacedoc" duration-ms="109982" started-at="2017-09-16T17:05:53Z" finished-at="2017-09-16T17:07:43Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Replacedoc -->
-        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:Testcase.TestCases@b9afc07]" name="afterMethod" is-config="true" duration-ms="0" started-at="2017-09-12T13:39:00Z" finished-at="2017-09-12T13:39:00Z">
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:Testcase.TestCases@3cb1ffe6]" name="afterMethod" is-config="true" duration-ms="2" started-at="2017-09-16T17:07:43Z" finished-at="2017-09-16T17:07:43Z">
           <params>
             <param index="0">
               <value>
-                <![CDATA[[TestResult name=Replacedoc status=SUCCESS method=TestCases.Replacedoc()[pri:0, instance:Testcase.TestCases@b9afc07] output={null}]]]>
+                <![CDATA[[TestResult name=Replacedoc status=SUCCESS method=TestCases.Replacedoc()[pri:0, instance:Testcase.TestCases@3cb1ffe6] output={null}]]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
-        <test-method status="PASS" signature="a()[pri:0, instance:Testcase.TestCases@b9afc07]" name="a" is-config="true" duration-ms="1917" started-at="2017-09-12T13:39:00Z" finished-at="2017-09-12T13:39:02Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- a -->
-        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:Testcase.TestCases@b9afc07]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2017-09-12T13:39:00Z" finished-at="2017-09-12T13:39:00Z">
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:Testcase.TestCases@3cb1ffe6]" name="beforeMethod" is-config="true" duration-ms="2" started-at="2017-09-16T17:07:43Z" finished-at="2017-09-16T17:07:43Z">
           <params>
             <param index="0">
               <value>
@@ -52,15 +48,26 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="delete()[pri:0, instance:Testcase.TestCases@b9afc07]" name="delete" duration-ms="125364" started-at="2017-09-12T13:39:02Z" finished-at="2017-09-12T13:41:08Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- delete -->
-        <test-method status="PASS" signature="a()[pri:0, instance:Testcase.TestCases@b9afc07]" name="a" is-config="true" duration-ms="1933" started-at="2017-09-12T13:41:08Z" finished-at="2017-09-12T13:41:09Z">
+        <test-method status="PASS" signature="a()[pri:0, instance:Testcase.TestCases@3cb1ffe6]" name="a" is-config="true" duration-ms="1913" started-at="2017-09-16T17:07:43Z" finished-at="2017-09-16T17:07:45Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- a -->
-        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:Testcase.TestCases@b9afc07]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2017-09-12T13:41:08Z" finished-at="2017-09-12T13:41:08Z">
+        <test-method status="PASS" signature="delete()[pri:0, instance:Testcase.TestCases@3cb1ffe6]" name="delete" duration-ms="138349" started-at="2017-09-16T17:07:45Z" finished-at="2017-09-16T17:10:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- delete -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:Testcase.TestCases@3cb1ffe6]" name="afterMethod" is-config="true" duration-ms="1" started-at="2017-09-16T17:10:03Z" finished-at="2017-09-16T17:10:03Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=delete status=SUCCESS method=TestCases.delete()[pri:0, instance:Testcase.TestCases@3cb1ffe6] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:Testcase.TestCases@3cb1ffe6]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2017-09-16T17:10:03Z" finished-at="2017-09-16T17:10:03Z">
           <params>
             <param index="0">
               <value>
@@ -71,37 +78,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:Testcase.TestCases@b9afc07]" name="afterMethod" is-config="true" duration-ms="0" started-at="2017-09-12T13:41:08Z" finished-at="2017-09-12T13:41:08Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[[TestResult name=delete status=SUCCESS method=TestCases.delete()[pri:0, instance:Testcase.TestCases@b9afc07] output={null}]]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- afterMethod -->
-        <test-method status="PASS" signature="features()[pri:0, instance:Testcase.TestCases@b9afc07]" name="features" duration-ms="81853" started-at="2017-09-12T13:41:09Z" finished-at="2017-09-12T13:42:31Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- features -->
-        <test-method status="PASS" signature="a()[pri:0, instance:Testcase.TestCases@b9afc07]" name="a" is-config="true" duration-ms="1914" started-at="2017-09-12T13:42:31Z" finished-at="2017-09-12T13:42:33Z">
+        <test-method status="PASS" signature="a()[pri:0, instance:Testcase.TestCases@3cb1ffe6]" name="a" is-config="true" duration-ms="1908" started-at="2017-09-16T17:10:03Z" finished-at="2017-09-16T17:10:05Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- a -->
-        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:Testcase.TestCases@b9afc07]" name="afterMethod" is-config="true" duration-ms="0" started-at="2017-09-12T13:42:31Z" finished-at="2017-09-12T13:42:31Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[[TestResult name=features status=SUCCESS method=TestCases.features()[pri:0, instance:Testcase.TestCases@b9afc07] output={null}]]]>
-              </value>
-            </param>
-          </params>
+        <test-method status="PASS" signature="features()[pri:0, instance:Testcase.TestCases@3cb1ffe6]" name="features" duration-ms="66398" started-at="2017-09-16T17:10:05Z" finished-at="2017-09-16T17:11:11Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- afterMethod -->
-        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:Testcase.TestCases@b9afc07]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2017-09-12T13:42:31Z" finished-at="2017-09-12T13:42:31Z">
+        </test-method> <!-- features -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:Testcase.TestCases@3cb1ffe6]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2017-09-16T17:11:11Z" finished-at="2017-09-16T17:11:11Z">
           <params>
             <param index="0">
               <value>
@@ -112,26 +97,37 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="fetch()[pri:0, instance:Testcase.TestCases@b9afc07]" name="fetch" duration-ms="58550" started-at="2017-09-12T13:42:33Z" finished-at="2017-09-12T13:43:32Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- fetch -->
-        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:Testcase.TestCases@b9afc07]" name="afterMethod" is-config="true" duration-ms="0" started-at="2017-09-12T13:43:32Z" finished-at="2017-09-12T13:43:32Z">
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:Testcase.TestCases@3cb1ffe6]" name="afterMethod" is-config="true" duration-ms="0" started-at="2017-09-16T17:11:11Z" finished-at="2017-09-16T17:11:11Z">
           <params>
             <param index="0">
               <value>
-                <![CDATA[[TestResult name=fetch status=SUCCESS method=TestCases.fetch()[pri:0, instance:Testcase.TestCases@b9afc07] output={null}]]]>
+                <![CDATA[[TestResult name=features status=SUCCESS method=TestCases.features()[pri:0, instance:Testcase.TestCases@3cb1ffe6] output={null}]]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
-        <test-method status="PASS" signature="a()[pri:0, instance:Testcase.TestCases@b9afc07]" name="a" is-config="true" duration-ms="1924" started-at="2017-09-12T13:43:32Z" finished-at="2017-09-12T13:43:34Z">
+        <test-method status="PASS" signature="a()[pri:0, instance:Testcase.TestCases@3cb1ffe6]" name="a" is-config="true" duration-ms="1904" started-at="2017-09-16T17:11:11Z" finished-at="2017-09-16T17:11:13Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- a -->
-        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:Testcase.TestCases@b9afc07]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2017-09-12T13:43:32Z" finished-at="2017-09-12T13:43:32Z">
+        <test-method status="PASS" signature="fetch()[pri:0, instance:Testcase.TestCases@3cb1ffe6]" name="fetch" duration-ms="59853" started-at="2017-09-16T17:11:13Z" finished-at="2017-09-16T17:12:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fetch -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:Testcase.TestCases@3cb1ffe6]" name="afterMethod" is-config="true" duration-ms="0" started-at="2017-09-16T17:12:13Z" finished-at="2017-09-16T17:12:13Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=fetch status=SUCCESS method=TestCases.fetch()[pri:0, instance:Testcase.TestCases@3cb1ffe6] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:Testcase.TestCases@3cb1ffe6]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2017-09-16T17:12:13Z" finished-at="2017-09-16T17:12:13Z">
           <params>
             <param index="0">
               <value>
@@ -142,22 +138,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="forward()[pri:0, instance:Testcase.TestCases@b9afc07]" name="forward" duration-ms="46444" started-at="2017-09-12T13:43:34Z" finished-at="2017-09-12T13:44:20Z">
+        <test-method status="PASS" signature="a()[pri:0, instance:Testcase.TestCases@3cb1ffe6]" name="a" is-config="true" duration-ms="1913" started-at="2017-09-16T17:12:13Z" finished-at="2017-09-16T17:12:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- a -->
+        <test-method status="PASS" signature="forward()[pri:0, instance:Testcase.TestCases@3cb1ffe6]" name="forward" duration-ms="51454" started-at="2017-09-16T17:12:15Z" finished-at="2017-09-16T17:13:06Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- forward -->
-        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:Testcase.TestCases@b9afc07]" name="afterMethod" is-config="true" duration-ms="0" started-at="2017-09-12T13:44:20Z" finished-at="2017-09-12T13:44:20Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[[TestResult name=forward status=SUCCESS method=TestCases.forward()[pri:0, instance:Testcase.TestCases@b9afc07] output={null}]]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- afterMethod -->
-        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:Testcase.TestCases@b9afc07]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2017-09-12T13:44:20Z" finished-at="2017-09-12T13:44:20Z">
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:Testcase.TestCases@3cb1ffe6]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2017-09-16T17:13:06Z" finished-at="2017-09-16T17:13:06Z">
           <params>
             <param index="0">
               <value>
@@ -168,26 +157,37 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="a()[pri:0, instance:Testcase.TestCases@b9afc07]" name="a" is-config="true" duration-ms="1905" started-at="2017-09-12T13:44:20Z" finished-at="2017-09-12T13:44:22Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- a -->
-        <test-method status="PASS" signature="listing()[pri:0, instance:Testcase.TestCases@b9afc07]" name="listing" duration-ms="64878" started-at="2017-09-12T13:44:22Z" finished-at="2017-09-12T13:45:27Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- listing -->
-        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:Testcase.TestCases@b9afc07]" name="afterMethod" is-config="true" duration-ms="0" started-at="2017-09-12T13:45:27Z" finished-at="2017-09-12T13:45:27Z">
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:Testcase.TestCases@3cb1ffe6]" name="afterMethod" is-config="true" duration-ms="0" started-at="2017-09-16T17:13:06Z" finished-at="2017-09-16T17:13:06Z">
           <params>
             <param index="0">
               <value>
-                <![CDATA[[TestResult name=listing status=SUCCESS method=TestCases.listing()[pri:0, instance:Testcase.TestCases@b9afc07] output={null}]]]>
+                <![CDATA[[TestResult name=forward status=SUCCESS method=TestCases.forward()[pri:0, instance:Testcase.TestCases@3cb1ffe6] output={null}]]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
-        <test-method status="PASS" signature="endTest()[pri:0, instance:Testcase.TestCases@b9afc07]" name="endTest" is-config="true" duration-ms="221" started-at="2017-09-12T13:45:27Z" finished-at="2017-09-12T13:45:27Z">
+        <test-method status="PASS" signature="a()[pri:0, instance:Testcase.TestCases@3cb1ffe6]" name="a" is-config="true" duration-ms="1894" started-at="2017-09-16T17:13:06Z" finished-at="2017-09-16T17:13:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- a -->
+        <test-method status="PASS" signature="listing()[pri:0, instance:Testcase.TestCases@3cb1ffe6]" name="listing" duration-ms="75747" started-at="2017-09-16T17:13:08Z" finished-at="2017-09-16T17:14:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- listing -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:Testcase.TestCases@3cb1ffe6]" name="afterMethod" is-config="true" duration-ms="0" started-at="2017-09-16T17:14:24Z" finished-at="2017-09-16T17:14:24Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=listing status=SUCCESS method=TestCases.listing()[pri:0, instance:Testcase.TestCases@3cb1ffe6] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="endTest()[pri:0, instance:Testcase.TestCases@3cb1ffe6]" name="endTest" is-config="true" duration-ms="321" started-at="2017-09-16T17:14:24Z" finished-at="2017-09-16T17:14:24Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- endTest -->
